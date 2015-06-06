@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Android\Workspace\Wikitude\app\libs\wikitudesdk.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7c5e5c9b24600f61ff5348ab0a7310e5d84138c7">
+        <dex dex="D:\Android\Workspace\Wikitude\app\build\intermediates\pre-dexed\debug\wikitudesdk-b7bf8337d21f039738457b608b2b9334ef9bf83c.jar" />
+    </item>
+    <item
+        jar="D:\Android\android-sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="D:\Android\Workspace\Wikitude\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-017839fc6850042c9dbb2e1401a52d112704e98c.jar" />
+    </item>
+
+</items>
